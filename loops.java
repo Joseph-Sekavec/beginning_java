@@ -41,8 +41,7 @@ public class loops
 		{
 			System.out.print("type a number: ");
 			x = sc.nextInt();
-		}
-		while(x != 10);
+		}while(x != 10);
 		
 		
 		
